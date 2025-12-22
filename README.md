@@ -63,8 +63,3 @@ Moderation Commands
 🤝 Contributing
 - Contributions, suggestions, and improvements are welcome!
   Feel free to open an issue or submit a pull request.
-
-
-
-
-BCA Student | Discord Bot Developer | Tech Enthusiast
