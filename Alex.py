@@ -746,4 +746,4 @@ async def userinfo(ctx, member: discord.Member = None):
     await ctx.send(embed=embed)
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot.run(os.getenv(TOKEN))
+bot.run(os.getenv("TOKEN"))
