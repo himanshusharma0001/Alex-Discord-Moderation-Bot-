@@ -2,7 +2,7 @@
 Author
 Himanshu Sharma
 
-DevDungeon is a powerful and feature-rich Discord moderation bot designed to help server administrators maintain order, manage users, and retrieve useful server and user information with ease.
+DevDungeon is a powerful and feature-rich Discord moderation bot designed to help server administrators maintain order, manage users, and retrieve useful server and user information with ease
 Built with scalability and performance in mind, this bot provides essential moderation, utility, and server management commands.
 
 🚀 Features
